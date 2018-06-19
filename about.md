@@ -18,10 +18,10 @@ Voici le contenu :
 - [Paramètres acoustiques, reconnaissance et alignement automatiques ](https://bigdataspeech.github.io/Align/)
 
 
-- [L'apprentissage automatique ](https://bigdataspeech.github.io/Learn/)
+- [Apprentissage automatique ](https://bigdataspeech.github.io/Learn/)
 
 
- -[Les entités nommées](https://bigdataspeech.github.io/EN/)
+- [Entités nommées](https://bigdataspeech.github.io/EN/)
 
 
 - [Chansons](https://bigdataspeech.github.io/Sing/)
