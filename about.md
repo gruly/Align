@@ -9,6 +9,8 @@ Toutes les informations relatives à cette école d'été peuvent être trouvée
 
 Voici le contenu :
 
+- [Acceuil](https://bigdataspeech.github.io/Home/)
+
 - [Collecte et traitement de corpus oraux](https://bigdataspeech.github.io/Corpus/)
 
 
@@ -24,4 +26,4 @@ Voici le contenu :
 - [Entités nommées](https://bigdataspeech.github.io/EN/)
 
 
-- [Chansons](https://bigdataspeech.github.io/Sing/)
+- [Activités "extra scolaires"](https://bigdataspeech.github.io/Sing/)
