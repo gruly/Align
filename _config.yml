@@ -16,22 +16,6 @@
 title: Alignement automatique
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  - [Collecte et traitement de corpus oraux](https://bigdataspeech.github.io/Corpus/)
-
-
-  - [Analyses acoustiques ](https://bigdataspeech.github.io/Praat/)
-
-
-  - [Paramètres acoustiques, reconnaissance et alignement automatiques ](https://bigdataspeech.github.io/Align/)
-
-
-  - [Apprentissage automatique ](https://bigdataspeech.github.io/Learn/)
-
-
-  - [Entités nommées](https://bigdataspeech.github.io/EN/)
-
-
-  - [Chansons](https://bigdataspeech.github.io/Sing/)
 baseurl: "Align" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
